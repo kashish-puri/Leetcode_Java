@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kashish-puri/Leetcode_Java/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/kashish-puri/Leetcode_Java/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/kashish-puri/Leetcode_Java/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kashish-puri/Leetcode_Java/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/kashish-puri/Leetcode_Java/tree/master/0853-car-fleet) |
@@ -37,8 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kashish-puri/Leetcode_Java/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/kashish-puri/Leetcode_Java/tree/master/0232-implement-queue-using-stacks) |
 ## Sorting
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/kashish-puri/Leetcode_Java/tree/master/0853-car-fleet) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/kashish-puri/Leetcode_Java/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
