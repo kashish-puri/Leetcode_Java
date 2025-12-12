@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kashish-puri/Leetcode_Java/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/kashish-puri/Leetcode_Java/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kashish-puri/Leetcode_Java/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kashish-puri/Leetcode_Java/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kashish-puri/Leetcode_Java/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
