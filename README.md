@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kashish-puri/Leetcode_Java/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/kashish-puri/Leetcode_Java/tree/master/0853-car-fleet) |
+| [0867-transpose-matrix](https://github.com/kashish-puri/Leetcode_Java/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kashish-puri/Leetcode_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/kashish-puri/Leetcode_Java/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/kashish-puri/Leetcode_Java/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
