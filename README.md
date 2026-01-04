@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kashish-puri/Leetcode_Java/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/kashish-puri/Leetcode_Java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/kashish-puri/Leetcode_Java/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/kashish-puri/Leetcode_Java/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/kashish-puri/Leetcode_Java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kashish-puri/Leetcode_Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kashish-puri/Leetcode_Java/tree/master/0160-intersection-of-two-linked-lists) |
