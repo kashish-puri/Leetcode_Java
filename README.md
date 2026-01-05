@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kashish-puri/Leetcode_Java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kashish-puri/Leetcode_Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/kashish-puri/Leetcode_Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/kashish-puri/Leetcode_Java/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/kashish-puri/Leetcode_Java/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kashish-puri/Leetcode_Java/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kashish-puri/Leetcode_Java/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/kashish-puri/Leetcode_Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kashish-puri/Leetcode_Java/tree/master/0234-palindrome-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
