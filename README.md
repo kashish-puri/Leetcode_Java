@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kashish-puri/Leetcode_Java/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kashish-puri/Leetcode_Java/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kashish-puri/Leetcode_Java/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/kashish-puri/Leetcode_Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kashish-puri/Leetcode_Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/kashish-puri/Leetcode_Java/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/kashish-puri/Leetcode_Java/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/kashish-puri/Leetcode_Java/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/kashish-puri/Leetcode_Java/tree/master/0853-car-fleet) |
 ## Queue
 |  |
