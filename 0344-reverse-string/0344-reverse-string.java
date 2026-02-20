@@ -1,7 +1,6 @@
 class Solution {
-    public void rev(char[] s,int left,int right){
+    public void rev(char []s, int left, int right){
         if(left>=right) return;
-        //yaha hum swap krenge using two pointers
         char temp=s[left];
         s[left]=s[right];
         s[right]=temp;
