@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kashish-puri/Leetcode_Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kashish-puri/Leetcode_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish-puri/Leetcode_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kashish-puri/Leetcode_Java/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kashish-puri/Leetcode_Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kashish-puri/Leetcode_Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish-puri/Leetcode_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kashish-puri/Leetcode_Java/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/kashish-puri/Leetcode_Java/tree/master/0234-palindrome-linked-list) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kashish-puri/Leetcode_Java/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kashish-puri/Leetcode_Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0090-subsets-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish-puri/Leetcode_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
