@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/kashish-puri/Leetcode_Java/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/kashish-puri/Leetcode_Java/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kashish-puri/Leetcode_Java/tree/master/0048-rotate-image) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/kashish-puri/Leetcode_Java/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/kashish-puri/Leetcode_Java/tree/master/0853-car-fleet) |
 ## Queue
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kashish-puri/Leetcode_Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/kashish-puri/Leetcode_Java/tree/master/0061-rotate-list) |
