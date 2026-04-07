@@ -1,11 +1,18 @@
 class Solution {
     public double myPow(double x, int n) {
-        return conv(x,(long)n);
+        long N = n;  // to handle overflow
+
+        if (N < 0) {
+            x = 1 / x;
+            N = -N;
+        }
+
+        return power(x, N);
     }
-    public double conv(double x,long n){
+    public double power(double x, long n){
         if(n==0) return 1;
-        if(n<0) return conv(1/x,-n);
-        if(n%2==0) return conv(x*x,n/2);
-        return conv(x*x,n/2)*x;
+        double half = power(x, n/2);
+        if(n%2 == 0) return half*half;
+        else return half* half* x;
     }
 }
