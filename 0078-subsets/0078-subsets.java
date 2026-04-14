@@ -6,14 +6,11 @@ class Solution {
 
     }
     public void helper(int[] nums, int idx, List<Integer> curr, List<List<Integer>> result){
-        if(idx==nums.length){
-            result.add(new ArrayList<>(curr));
-            return;
+        result.add(new ArrayList<>(curr));
+        for(int i=idx;i<nums.length;i++){
+            curr.add(nums[i]);
+            helper(nums, i+1, curr, result);
+            curr.remove(curr.size()-1);
         }
-        curr.add(nums[idx]);
-        helper(nums, idx+1, curr, result);
-
-        curr.remove(curr.size()-1);
-        helper(nums, idx+1, curr, result);
     }
 }
