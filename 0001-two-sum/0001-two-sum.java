@@ -6,6 +6,6 @@ class Solution {
                 if(nums[i]+nums[j]==target) return new int[] {i,j};
             }
         }
-        return new int[]{-1,-1};
+        return new int[] {-1,-1};
     }
 }
