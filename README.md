@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kashish-puri/Leetcode_Java/tree/master/0102-binary-tree-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/kashish-puri/Leetcode_Java/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -196,4 +197,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kashish-puri/Leetcode_Java/tree/master/0102-binary-tree-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/kashish-puri/Leetcode_Java/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/kashish-puri/Leetcode_Java/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
