@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kashish-puri/Leetcode_Java/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/kashish-puri/Leetcode_Java/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/kashish-puri/Leetcode_Java/tree/master/0867-transpose-matrix) |
+| [2761-prime-pairs-with-target-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/2761-prime-pairs-with-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/kashish-puri/Leetcode_Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kashish-puri/Leetcode_Java/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kashish-puri/Leetcode_Java/tree/master/0509-fibonacci-number) |
+| [2761-prime-pairs-with-target-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/2761-prime-pairs-with-target-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -249,8 +251,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kashish-puri/Leetcode_Java/tree/master/0204-count-primes) |
+| [2761-prime-pairs-with-target-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/2761-prime-pairs-with-target-sum) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kashish-puri/Leetcode_Java/tree/master/0204-count-primes) |
+| [2761-prime-pairs-with-target-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/2761-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
