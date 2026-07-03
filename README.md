@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish-puri/Leetcode_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kashish-puri/Leetcode_Java/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/kashish-puri/Leetcode_Java/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/kashish-puri/Leetcode_Java/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish-puri/Leetcode_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0209-minimum-size-subarray-sum) |
 ## Tree
 |  |
 | ------- |
@@ -281,11 +283,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/kashish-puri/Leetcode_Java/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
