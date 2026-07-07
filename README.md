@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/kashish-puri/Leetcode_Java/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/kashish-puri/Leetcode_Java/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kashish-puri/Leetcode_Java/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/kashish-puri/Leetcode_Java/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/kashish-puri/Leetcode_Java/tree/master/0867-transpose-matrix) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish-puri/Leetcode_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/kashish-puri/Leetcode_Java/tree/master/0704-binary-search) |
 ## Tree
 |  |
 | ------- |
