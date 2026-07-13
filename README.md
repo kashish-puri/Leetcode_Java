@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/kashish-puri/Leetcode_Java/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/kashish-puri/Leetcode_Java/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/kashish-puri/Leetcode_Java/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kashish-puri/Leetcode_Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1250-check-if-it-is-a-good-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/1250-check-if-it-is-a-good-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kashish-puri/Leetcode_Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/1480-running-sum-of-1d-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/kashish-puri/Leetcode_Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kashish-puri/Leetcode_Java/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kashish-puri/Leetcode_Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kashish-puri/Leetcode_Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Tree
 |  |
