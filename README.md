@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kashish-puri/Leetcode_Java/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/kashish-puri/Leetcode_Java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kashish-puri/Leetcode_Java/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/kashish-puri/Leetcode_Java/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0410-split-array-largest-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kashish-puri/Leetcode_Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/kashish-puri/Leetcode_Java/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/kashish-puri/Leetcode_Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kashish-puri/Leetcode_Java/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kashish-puri/Leetcode_Java/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/kashish-puri/Leetcode_Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kashish-puri/Leetcode_Java/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/kashish-puri/Leetcode_Java/tree/master/0853-car-fleet) |
 ## Queue
