@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/kashish-puri/Leetcode_Java/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kashish-puri/Leetcode_Java/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kashish-puri/Leetcode_Java/tree/master/0739-daily-temperatures) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kashish-puri/Leetcode_Java/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0523-continuous-subarray-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/kashish-puri/Leetcode_Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kashish-puri/Leetcode_Java/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kashish-puri/Leetcode_Java/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0523-continuous-subarray-sum) |
 | [1175-prime-arrangements](https://github.com/kashish-puri/Leetcode_Java/tree/master/1175-prime-arrangements) |
 | [1250-check-if-it-is-a-good-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/kashish-puri/Leetcode_Java/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0523-continuous-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
