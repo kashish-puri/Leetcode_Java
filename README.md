@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kashish-puri/Leetcode_Java/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kashish-puri/Leetcode_Java/tree/master/0739-daily-temperatures) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish-puri/Leetcode_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kashish-puri/Leetcode_Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kashish-puri/Leetcode_Java/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kashish-puri/Leetcode_Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
