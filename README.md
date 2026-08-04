@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kashish-puri/Leetcode_Java/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish-puri/Leetcode_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/kashish-puri/Leetcode_Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kashish-puri/Leetcode_Java/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0209-minimum-size-subarray-sum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kashish-puri/Leetcode_Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kashish-puri/Leetcode_Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/kashish-puri/Leetcode_Java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kashish-puri/Leetcode_Java/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kashish-puri/Leetcode_Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kashish-puri/Leetcode_Java/tree/master/0242-valid-anagram) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kashish-puri/Leetcode_Java/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/kashish-puri/Leetcode_Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kashish-puri/Leetcode_Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kashish-puri/Leetcode_Java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/kashish-puri/Leetcode_Java/tree/master/0389-find-the-difference) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kashish-puri/Leetcode_Java/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kashish-puri/Leetcode_Java/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kashish-puri/Leetcode_Java/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -347,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kashish-puri/Leetcode_Java/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0410-split-array-largest-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kashish-puri/Leetcode_Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
