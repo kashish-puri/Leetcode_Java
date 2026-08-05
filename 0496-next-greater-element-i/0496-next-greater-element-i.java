@@ -1,21 +1,22 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        Stack<Integer> st= new Stack<>();
-        Map<Integer, Integer> mp= new HashMap<>();
-        for(int curr : nums2){
-            while(!st.isEmpty() && curr > st.peek()){
-                int top=st.pop();
-                mp.put(top, curr);
+        Stack<Integer> st = new Stack<>();
+        HashMap<Integer, Integer> mp = new HashMap<>();
+        for(int i = nums2.length - 1; i >= 0; i--){
+            while(!st.isEmpty() && st.peek() <= nums2[i]){
+                st.pop();
             }
-            st.push(curr);
+            if(st.isEmpty()){
+                mp.put(nums2[i], -1);
+            }else{
+                mp.put(nums2[i], st.peek());
+            }
+            st.push(nums2[i]);
         }
-        while(!st.isEmpty()){
-            mp.put(st.pop(),-1); //remaining elements ka koi next greater element nahi h isliye -1 
+        int[] result = new int[nums1.length];
+        for(int i = 0; i< nums1.length; i++){
+            result[i] = mp.get(nums1[i]);
         }
-        int[] ans=new int[nums1.length];
-        for(int i=0;i<nums1.length;i++){
-            ans[i]=mp.get(nums1[i]);
-        }
-        return ans;
+        return result;
     }
 }
