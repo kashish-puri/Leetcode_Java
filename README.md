@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kashish-puri/Leetcode_Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kashish-puri/Leetcode_Java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kashish-puri/Leetcode_Java/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/kashish-puri/Leetcode_Java/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kashish-puri/Leetcode_Java/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/kashish-puri/Leetcode_Java/tree/master/0853-car-fleet) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kashish-puri/Leetcode_Java/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/kashish-puri/Leetcode_Java/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/kashish-puri/Leetcode_Java/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/kashish-puri/Leetcode_Java/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kashish-puri/Leetcode_Java/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/kashish-puri/Leetcode_Java/tree/master/0853-car-fleet) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish-puri/Leetcode_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/kashish-puri/Leetcode_Java/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kashish-puri/Leetcode_Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kashish-puri/Leetcode_Java/tree/master/0875-koko-eating-bananas) |
@@ -371,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/kashish-puri/Leetcode_Java/tree/master/0181-employees-earning-more-than-their-managers) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/kashish-puri/Leetcode_Java/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
