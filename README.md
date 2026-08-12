@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kashish-puri/Leetcode_Java/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kashish-puri/Leetcode_Java/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kashish-puri/Leetcode_Java/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/kashish-puri/Leetcode_Java/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/kashish-puri/Leetcode_Java/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/kashish-puri/Leetcode_Java/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0344-reverse-string) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kashish-puri/Leetcode_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kashish-puri/Leetcode_Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kashish-puri/Leetcode_Java/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/kashish-puri/Leetcode_Java/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/kashish-puri/Leetcode_Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kashish-puri/Leetcode_Java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kashish-puri/Leetcode_Java/tree/master/0234-palindrome-linked-list) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kashish-puri/Leetcode_Java/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/kashish-puri/Leetcode_Java/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/kashish-puri/Leetcode_Java/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/kashish-puri/Leetcode_Java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kashish-puri/Leetcode_Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kashish-puri/Leetcode_Java/tree/master/0342-power-of-four) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kashish-puri/Leetcode_Java/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/kashish-puri/Leetcode_Java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kashish-puri/Leetcode_Java/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/kashish-puri/Leetcode_Java/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/kashish-puri/Leetcode_Java/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kashish-puri/Leetcode_Java/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/kashish-puri/Leetcode_Java/tree/master/0326-power-of-three) |
