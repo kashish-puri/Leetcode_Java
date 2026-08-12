@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kashish-puri/Leetcode_Java/tree/master/0389-find-the-difference) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kashish-puri/Leetcode_Java/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kashish-puri/Leetcode_Java/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/kashish-puri/Leetcode_Java/tree/master/0853-car-fleet) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kashish-puri/Leetcode_Java/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Array
 |  |
 | ------- |
