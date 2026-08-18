@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kashish-puri/Leetcode_Java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kashish-puri/Leetcode_Java/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kashish-puri/Leetcode_Java/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/kashish-puri/Leetcode_Java/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/kashish-puri/Leetcode_Java/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/kashish-puri/Leetcode_Java/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/kashish-puri/Leetcode_Java/tree/master/0242-valid-anagram) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kashish-puri/Leetcode_Java/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/kashish-puri/Leetcode_Java/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kashish-puri/Leetcode_Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kashish-puri/Leetcode_Java/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kashish-puri/Leetcode_Java/tree/master/0094-binary-tree-inorder-traversal) |
