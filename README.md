@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/kashish-puri/Leetcode_Java/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0595-big-countries](https://github.com/kashish-puri/Leetcode_Java/tree/master/0595-big-countries) |
 ## Ordered Set
 |  |
 | ------- |
