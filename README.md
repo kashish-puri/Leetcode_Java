@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kashish-puri/Leetcode_Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kashish-puri/Leetcode_Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1710-maximum-units-on-a-truck](https://github.com/kashish-puri/Leetcode_Java/tree/master/1710-maximum-units-on-a-truck) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kashish-puri/Leetcode_Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2761-prime-pairs-with-target-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/2761-prime-pairs-with-target-sum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kashish-puri/Leetcode_Java/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/kashish-puri/Leetcode_Java/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/kashish-puri/Leetcode_Java/tree/master/0853-car-fleet) |
+| [1710-maximum-units-on-a-truck](https://github.com/kashish-puri/Leetcode_Java/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kashish-puri/Leetcode_Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Queue
 |  |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/kashish-puri/Leetcode_Java/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/kashish-puri/Leetcode_Java/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/kashish-puri/Leetcode_Java/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kashish-puri/Leetcode_Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
