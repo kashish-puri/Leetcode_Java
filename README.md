@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kashish-puri/Leetcode_Java/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kashish-puri/Leetcode_Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kashish-puri/Leetcode_Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1094-car-pooling](https://github.com/kashish-puri/Leetcode_Java/tree/master/1094-car-pooling) |
 | [1250-check-if-it-is-a-good-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/1250-check-if-it-is-a-good-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kashish-puri/Leetcode_Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/1480-running-sum-of-1d-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kashish-puri/Leetcode_Java/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/kashish-puri/Leetcode_Java/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/kashish-puri/Leetcode_Java/tree/master/0853-car-fleet) |
+| [1094-car-pooling](https://github.com/kashish-puri/Leetcode_Java/tree/master/1094-car-pooling) |
 | [1710-maximum-units-on-a-truck](https://github.com/kashish-puri/Leetcode_Java/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kashish-puri/Leetcode_Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Queue
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/kashish-puri/Leetcode_Java/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/kashish-puri/Leetcode_Java/tree/master/0867-transpose-matrix) |
+| [1094-car-pooling](https://github.com/kashish-puri/Leetcode_Java/tree/master/1094-car-pooling) |
 ## Math
 |  |
 | ------- |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kashish-puri/Leetcode_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kashish-puri/Leetcode_Java/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1094-car-pooling](https://github.com/kashish-puri/Leetcode_Java/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
@@ -433,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kashish-puri/Leetcode_Java/tree/master/0455-assign-cookies) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/kashish-puri/Leetcode_Java/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
