@@ -453,4 +453,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/kashish-puri/Leetcode_Java/tree/master/2523-closest-prime-numbers-in-range) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/kashish-puri/Leetcode_Java/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/kashish-puri/Leetcode_Java/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
