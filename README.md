@@ -441,4 +441,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/kashish-puri/Leetcode_Java/tree/master/1094-car-pooling) |
+## Primality Test
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/kashish-puri/Leetcode_Java/tree/master/2523-closest-prime-numbers-in-range) |
+## Sieve Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/kashish-puri/Leetcode_Java/tree/master/2523-closest-prime-numbers-in-range) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/kashish-puri/Leetcode_Java/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
