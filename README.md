@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kashish-puri/Leetcode_Java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kashish-puri/Leetcode_Java/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kashish-puri/Leetcode_Java/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/kashish-puri/Leetcode_Java/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/kashish-puri/Leetcode_Java/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/kashish-puri/Leetcode_Java/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/kashish-puri/Leetcode_Java/tree/master/0224-basic-calculator) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kashish-puri/Leetcode_Java/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/kashish-puri/Leetcode_Java/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/kashish-puri/Leetcode_Java/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/kashish-puri/Leetcode_Java/tree/master/1094-car-pooling) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kashish-puri/Leetcode_Java/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/kashish-puri/Leetcode_Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kashish-puri/Leetcode_Java/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/kashish-puri/Leetcode_Java/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kashish-puri/Leetcode_Java/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kashish-puri/Leetcode_Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/0189-rotate-array) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kashish-puri/Leetcode_Java/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/kashish-puri/Leetcode_Java/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/kashish-puri/Leetcode_Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/kashish-puri/Leetcode_Java/tree/master/0231-power-of-two) |
