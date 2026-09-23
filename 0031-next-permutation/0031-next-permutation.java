@@ -1,17 +1,23 @@
 class Solution {
     public void nextPermutation(int[] nums) {
-        int i = nums.length - 2;
-        while (i >= 0 && nums[i] >= nums[i + 1]) {
-            i--;
-        }
-        if (i >= 0) {
-            int j = nums.length - 1;
-            while (nums[j] <= nums[i]) {
-                j--;
+        int n = nums.length - 1;
+        int pivot = -1;
+        for(int i = n; i > 0; i--){
+            if(nums[i] > nums[i - 1]){
+                pivot = i - 1;
+                break;
             }
-            swap(nums, i, j);
         }
-        reverse(nums, i + 1, nums.length - 1);
+        if(pivot == -1){
+            reverse(nums, 0, n);
+            return;
+        }
+        int j = n;
+        while(j >= 0 && nums[j] <= nums[pivot]){
+            j--;
+        }
+        swap(nums, pivot, j);
+        reverse(nums, pivot + 1, n);
     }
     public void swap(int[] nums, int i, int j) {
         int temp = nums[i];
