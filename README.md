@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/kashish-puri/Leetcode_Java/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/kashish-puri/Leetcode_Java/tree/master/0456-132-pattern) |
+| [0491-non-decreasing-subsequences](https://github.com/kashish-puri/Leetcode_Java/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kashish-puri/Leetcode_Java/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kashish-puri/Leetcode_Java/tree/master/0389-find-the-difference) |
+| [0491-non-decreasing-subsequences](https://github.com/kashish-puri/Leetcode_Java/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kashish-puri/Leetcode_Java/tree/master/0560-subarray-sum-equals-k) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kashish-puri/Leetcode_Java/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kashish-puri/Leetcode_Java/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/kashish-puri/Leetcode_Java/tree/master/0389-find-the-difference) |
+| [0491-non-decreasing-subsequences](https://github.com/kashish-puri/Leetcode_Java/tree/master/0491-non-decreasing-subsequences) |
 ## Memoization
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/kashish-puri/Leetcode_Java/tree/master/0257-binary-tree-paths) |
+| [0491-non-decreasing-subsequences](https://github.com/kashish-puri/Leetcode_Java/tree/master/0491-non-decreasing-subsequences) |
 ## Binary Search
 |  |
 | ------- |
