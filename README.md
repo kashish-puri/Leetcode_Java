@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kashish-puri/Leetcode_Java/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/kashish-puri/Leetcode_Java/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/kashish-puri/Leetcode_Java/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/kashish-puri/Leetcode_Java/tree/master/0131-palindrome-partitioning) |
 | [0224-basic-calculator](https://github.com/kashish-puri/Leetcode_Java/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/kashish-puri/Leetcode_Java/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/kashish-puri/Leetcode_Java/tree/master/0257-binary-tree-paths) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kashish-puri/Leetcode_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/kashish-puri/Leetcode_Java/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/kashish-puri/Leetcode_Java/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/kashish-puri/Leetcode_Java/tree/master/0509-fibonacci-number) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kashish-puri/Leetcode_Java/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kashish-puri/Leetcode_Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/kashish-puri/Leetcode_Java/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/kashish-puri/Leetcode_Java/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/kashish-puri/Leetcode_Java/tree/master/0491-non-decreasing-subsequences) |
