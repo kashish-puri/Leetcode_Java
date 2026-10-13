@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kashish-puri/Leetcode_Java/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kashish-puri/Leetcode_Java/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/kashish-puri/Leetcode_Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kashish-puri/Leetcode_Java/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/kashish-puri/Leetcode_Java/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kashish-puri/Leetcode_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kashish-puri/Leetcode_Java/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/kashish-puri/Leetcode_Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kashish-puri/Leetcode_Java/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/kashish-puri/Leetcode_Java/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/kashish-puri/Leetcode_Java/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kashish-puri/Leetcode_Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kashish-puri/Leetcode_Java/tree/master/0070-climbing-stairs) |
@@ -505,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/kashish-puri/Leetcode_Java/tree/master/0051-n-queens) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kashish-puri/Leetcode_Java/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
