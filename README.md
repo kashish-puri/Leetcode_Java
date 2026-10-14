@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kashish-puri/Leetcode_Java/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kashish-puri/Leetcode_Java/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kashish-puri/Leetcode_Java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kashish-puri/Leetcode_Java/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kashish-puri/Leetcode_Java/tree/master/0078-subsets) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kashish-puri/Leetcode_Java/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kashish-puri/Leetcode_Java/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kashish-puri/Leetcode_Java/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/kashish-puri/Leetcode_Java/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kashish-puri/Leetcode_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kashish-puri/Leetcode_Java/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kashish-puri/Leetcode_Java/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/kashish-puri/Leetcode_Java/tree/master/0085-maximal-rectangle) |
 | [0867-transpose-matrix](https://github.com/kashish-puri/Leetcode_Java/tree/master/0867-transpose-matrix) |
