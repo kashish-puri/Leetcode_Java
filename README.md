@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kashish-puri/Leetcode_Java/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kashish-puri/Leetcode_Java/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/kashish-puri/Leetcode_Java/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/kashish-puri/Leetcode_Java/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/kashish-puri/Leetcode_Java/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/kashish-puri/Leetcode_Java/tree/master/0456-132-pattern) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kashish-puri/Leetcode_Java/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/kashish-puri/Leetcode_Java/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kashish-puri/Leetcode_Java/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/kashish-puri/Leetcode_Java/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/kashish-puri/Leetcode_Java/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/kashish-puri/Leetcode_Java/tree/master/1143-longest-common-subsequence) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kashish-puri/Leetcode_Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kashish-puri/Leetcode_Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kashish-puri/Leetcode_Java/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/kashish-puri/Leetcode_Java/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -523,4 +526,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/kashish-puri/Leetcode_Java/tree/master/1143-longest-common-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/kashish-puri/Leetcode_Java/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/kashish-puri/Leetcode_Java/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
