@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/kashish-puri/Leetcode_Java/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/kashish-puri/Leetcode_Java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kashish-puri/Leetcode_Java/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kashish-puri/Leetcode_Java/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kashish-puri/Leetcode_Java/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/kashish-puri/Leetcode_Java/tree/master/0071-simplify-path) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kashish-puri/Leetcode_Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/kashish-puri/Leetcode_Java/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/kashish-puri/Leetcode_Java/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/kashish-puri/Leetcode_Java/tree/master/0075-sort-colors) |
@@ -538,4 +540,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/kashish-puri/Leetcode_Java/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0518-coin-change-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kashish-puri/Leetcode_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
