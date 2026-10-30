@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/kashish-puri/Leetcode_Java/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/kashish-puri/Leetcode_Java/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/kashish-puri/Leetcode_Java/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kashish-puri/Leetcode_Java/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/kashish-puri/Leetcode_Java/tree/master/0456-132-pattern) |
 | [0491-non-decreasing-subsequences](https://github.com/kashish-puri/Leetcode_Java/tree/master/0491-non-decreasing-subsequences) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kashish-puri/Leetcode_Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kashish-puri/Leetcode_Java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/kashish-puri/Leetcode_Java/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/kashish-puri/Leetcode_Java/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kashish-puri/Leetcode_Java/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/kashish-puri/Leetcode_Java/tree/master/0853-car-fleet) |
 | [1094-car-pooling](https://github.com/kashish-puri/Leetcode_Java/tree/master/1094-car-pooling) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kashish-puri/Leetcode_Java/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/kashish-puri/Leetcode_Java/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/kashish-puri/Leetcode_Java/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/kashish-puri/Leetcode_Java/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/kashish-puri/Leetcode_Java/tree/master/1143-longest-common-subsequence) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kashish-puri/Leetcode_Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/kashish-puri/Leetcode_Java/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/kashish-puri/Leetcode_Java/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kashish-puri/Leetcode_Java/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/kashish-puri/Leetcode_Java/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/kashish-puri/Leetcode_Java/tree/master/1710-maximum-units-on-a-truck) |
