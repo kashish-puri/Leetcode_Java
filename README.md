@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kashish-puri/Leetcode_Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1710-maximum-units-on-a-truck](https://github.com/kashish-puri/Leetcode_Java/tree/master/1710-maximum-units-on-a-truck) |
+| [1732-find-the-highest-altitude](https://github.com/kashish-puri/Leetcode_Java/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kashish-puri/Leetcode_Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2761-prime-pairs-with-target-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/2761-prime-pairs-with-target-sum) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/kashish-puri/Leetcode_Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/kashish-puri/Leetcode_Java/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/kashish-puri/Leetcode_Java/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
