@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/kashish-puri/Leetcode_Java/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kashish-puri/Leetcode_Java/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/kashish-puri/Leetcode_Java/tree/master/1392-longest-happy-prefix) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kashish-puri/Leetcode_Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/kashish-puri/Leetcode_Java/tree/master/1544-make-the-string-great) |
 ## Stack
 |  |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashish-puri/Leetcode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/kashish-puri/Leetcode_Java/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kashish-puri/Leetcode_Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
 |  |
 | ------- |
