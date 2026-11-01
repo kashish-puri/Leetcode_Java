@@ -6,7 +6,10 @@ class Solution {
         for(int i = 1; i < n + 1; i++){
             pref[i] = pref[i - 1] + gain[i - 1];
         }
-        Arrays.sort(pref);
-        return pref[n];
+        int max = pref[0];
+        for(int i = 1; i <= n; i++){
+            max = Math.max(max, pref[i]);
+        }
+        return max;
     }
 }
