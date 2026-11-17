@@ -510,14 +510,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kashish-puri/Leetcode_Java/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/kashish-puri/Leetcode_Java/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kashish-puri/Leetcode_Java/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/kashish-puri/Leetcode_Java/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kashish-puri/Leetcode_Java/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/kashish-puri/Leetcode_Java/tree/master/2523-closest-prime-numbers-in-range) |
 ## Euclidean Algorithm
 |  |
