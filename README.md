@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/kashish-puri/Leetcode_Java/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/kashish-puri/Leetcode_Java/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashish-puri/Leetcode_Java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kashish-puri/Leetcode_Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kashish-puri/Leetcode_Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2761-prime-pairs-with-target-sum](https://github.com/kashish-puri/Leetcode_Java/tree/master/2761-prime-pairs-with-target-sum) |
 ## Hash Table
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/kashish-puri/Leetcode_Java/tree/master/0853-car-fleet) |
 | [1094-car-pooling](https://github.com/kashish-puri/Leetcode_Java/tree/master/1094-car-pooling) |
 | [1710-maximum-units-on-a-truck](https://github.com/kashish-puri/Leetcode_Java/tree/master/1710-maximum-units-on-a-truck) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kashish-puri/Leetcode_Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kashish-puri/Leetcode_Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Queue
 |  |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kashish-puri/Leetcode_Java/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/kashish-puri/Leetcode_Java/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/kashish-puri/Leetcode_Java/tree/master/1710-maximum-units-on-a-truck) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kashish-puri/Leetcode_Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kashish-puri/Leetcode_Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
